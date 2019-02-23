@@ -1,0 +1,48 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Nov 25 00:48:58 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x0000b0
+.config_2007_UYGULAMA-52.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000057      
+                            0x002007    0x002007      
+            89 out of 8454 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    BASLA   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                  GECIKME   0x00003c    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                  KONTROL   0x000023    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+          PARLAKLIK_ARTIR   0x00002a    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+          PARLAKLIK_AZALT   0x000033    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                PWM_ISLEM   0x000045    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                  TEKRAR1   0x00003e    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                  TEKRAR2   0x000040    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    BASLA   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                  KONTROL   0x000023    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+          PARLAKLIK_ARTIR   0x00002a    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+          PARLAKLIK_AZALT   0x000033    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                  GECIKME   0x00003c    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                  TEKRAR1   0x00003e    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                  TEKRAR2   0x000040    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+                PWM_ISLEM   0x000045    program     static D:\mikroislemciler\2018GuzDonemi\52.uygulama\uygulama-52.asm
+
+
